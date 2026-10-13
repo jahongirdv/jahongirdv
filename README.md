@@ -41,19 +41,6 @@
 
 ---
 
-### 📊 Статистика GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jahongirdv&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahongirdv&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahongirdv&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ### 🚀 Избранные проекты
 
 | Проект | Описание | Стек |
